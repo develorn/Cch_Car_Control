@@ -1,0 +1,18 @@
+c:\users\patryk\documents\visual studio 2013\Projects\Car control\Car control\bin\Debug\Car control.exe.config
+c:\users\patryk\documents\visual studio 2013\Projects\Car control\Car control\bin\Debug\Car control.exe
+c:\users\patryk\documents\visual studio 2013\Projects\Car control\Car control\bin\Debug\Car control.pdb
+c:\users\patryk\documents\visual studio 2013\Projects\Car control\Car control\obj\Debug\Car control.csprojResolveAssemblyReference.cache
+c:\users\patryk\documents\visual studio 2013\Projects\Car control\Car control\obj\Debug\Car_control.Form1.resources
+c:\users\patryk\documents\visual studio 2013\Projects\Car control\Car control\obj\Debug\Car_control.Properties.Resources.resources
+c:\users\patryk\documents\visual studio 2013\Projects\Car control\Car control\obj\Debug\Car control.csproj.GenerateResource.Cache
+c:\users\patryk\documents\visual studio 2013\Projects\Car control\Car control\obj\Debug\Car control.exe
+c:\users\patryk\documents\visual studio 2013\Projects\Car control\Car control\obj\Debug\Car control.pdb
+D:\Software\C#\Projects\Car contorl\Car control\bin\Debug\Car control.exe.config
+D:\Software\C#\Projects\Car contorl\Car control\obj\Debug\Car control.exe
+D:\Software\C#\Projects\Car contorl\Car control\obj\Debug\Car control.pdb
+D:\Software\C#\Projects\Car contorl\Car control\bin\Debug\Car control.exe
+D:\Software\C#\Projects\Car contorl\Car control\bin\Debug\Car control.pdb
+D:\Software\C#\Projects\Car contorl\Car control\obj\Debug\Car control.csprojResolveAssemblyReference.cache
+D:\Software\C#\Projects\Car contorl\Car control\obj\Debug\Car_control.Form1.resources
+D:\Software\C#\Projects\Car contorl\Car control\obj\Debug\Car_control.Properties.Resources.resources
+D:\Software\C#\Projects\Car contorl\Car control\obj\Debug\Car control.csproj.GenerateResource.Cache
